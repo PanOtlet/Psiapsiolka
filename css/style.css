@@ -176,7 +176,7 @@ banner
 services
 ***************************************/
 .icon i{
-	color: #00798C;
+	color: #00deff;
 	font-size: 45px;
 	margin-bottom: 25px;
 }
@@ -193,7 +193,7 @@ services
 cta-1
 ***************************************/
 .schedule-tab {
-	background-color: #00798C;
+	background-color: #00deff;
 	float: left;
 }
 .medi-info{
@@ -241,7 +241,7 @@ about
     width: 40px;
     height: 40px;
     padding-top: 6px;
-    background: #00798C;
+    background: #00deff;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
@@ -349,7 +349,7 @@ cta -2
 	color: #fff;
 }
 .icon-play, .icon-play:hover, .icon-play:focus{
-	background-color: #00798C;
+	background-color: #00deff;
 	padding: 5px 10px;
 	color: #fff;
 	text-decoration: none;
@@ -358,7 +358,7 @@ cta -2
 	display: block;
 }
 .text-primary {
-    color: #00798C;
+    color: #00deff;
 }
 .icon-mar 
 {
@@ -371,7 +371,7 @@ contact us
     margin-top: 40px;
 }
 .btn-form, .btn-form:hover, .btn-form:focus {
-    background-color: #00798C;
+    background-color: #00deff;
     color: #fff;
     border-radius: 0px;
     padding: 10px 20px;
@@ -473,7 +473,7 @@ footer
 }
 .site-link, .site-link:hover, .site-link:focus
 {
-    color: #00798C;
+    color: #00deff;
     text-transform: none;
 }
 @media (min-width: 551px) and (max-width: 980px){
